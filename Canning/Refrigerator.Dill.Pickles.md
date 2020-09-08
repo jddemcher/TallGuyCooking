@@ -11,6 +11,7 @@
 6. 4 cups water
 7. 1/2 cup white vinegar
 8. 3 teaspoons of kosher salt
+9. Pickle crips 1/8 tsp per jar
 
 ### Cooking Instructions
 
@@ -18,8 +19,9 @@
 2. Add the cut cucumbers to each jar, packing tightly without forcing.
 3. Mix together the water, vinegar, and salt in a large pitcher.
 4. Pour the brine into each jar filling close to the top.
-5. Add a pinch of red pepper flakes if desired at the top, and extra dill if there is room.
-6. Refridgerate the jars for at least 24 hours before eating. They will last up to 2 months in the refridgerator.
+5. Add 1/8 tsp pickle crisp per jar.
+6. Add a pinch of red pepper flakes if desired at the top, and extra dill if there is room.
+7. Refridgerate the jars for at least 24 hours before eating. They will last up to 2 months in the refridgerator.
 
 **Enjoy!!!**
 
