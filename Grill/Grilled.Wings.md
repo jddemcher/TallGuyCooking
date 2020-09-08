@@ -1,6 +1,6 @@
 # Grilled Wings
 
-*This recipe/marinade can be used for wings, thighs, and drumsticks.*
+*This recipe/marinade can be used for wings, thighs, and drumsticks. Size quantities are good for about 12-15 wings, 4-6 thighs, or 6-8 drumsticks. Marinade ingredients can be increased for larger quantity of chicken.*
 
 ### Ingredients
 1. 1 tsp chili powder
