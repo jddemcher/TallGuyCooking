@@ -13,6 +13,6 @@
 
 **Enjoy!!!**
 
-![icon](https://github.com/jddemcher/TallGuyCooking/blob/master/iconfile.png)
+![icon](https://github.com/jddemcher/TallGuyCooking/blob/master/iconfile.png =50x50)
 
 
