@@ -3,6 +3,7 @@
 *Does not require canning process or water bath. Do not adjust liquid measurements, if more brine is needed make small batches. Will last in the fridge for 1-2 months. This will make roughly 4 pint jars or 2 quart jars.*
 
 ### Ingredients
+
 1. 2 large cucumbers or 4-6 small pickling cucumbers (cut however you like; spears, slices, etc.)
 2. Fresh dill sprigs, about 4 per jar
 3. Garlic cloves smashed, about 2 or 3 per jar

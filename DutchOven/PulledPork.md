@@ -3,6 +3,7 @@
 *This can be used on any type of pork butt/pork shoulder roast, with or without bone.*
 
 ### Ingredients
+
 1. 1/4 cup brown sugar
 2. 1 tbsp chili powder
 3. 1 tbsp paprika

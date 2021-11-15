@@ -3,6 +3,7 @@
 *Makes 4 pints of pickles, can be either prepped for long term canning or short batch refridgerator pickles. If canning for long term storage, it's best to use pint jars.*
 
 ### Ingredients
+
 1. 6-8 medium sized pickling cucumbers sliced into 1/4 slices
 2. 1 medium/small onion (sweet or yellow) thin sliced
 3. 1/2 cup kosher salt

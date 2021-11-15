@@ -3,6 +3,7 @@
 *Makes 3 or 4 pints depending on how tightly jars are packed.*
 
 ### Ingredients
+
 1. 2 cups white vinegar
 2. 2 cups apple cider vinegar
 3. 1 cup sugar

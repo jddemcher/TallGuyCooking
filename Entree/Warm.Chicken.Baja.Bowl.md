@@ -3,6 +3,7 @@
 *Copycat version of the chicken baja bowl at Panera.*
 
 ### Ingredients
+
 1. 2 cups brown rice and quinoa
 2. 2 chicken breasts
 3. lemon/garlic marinade

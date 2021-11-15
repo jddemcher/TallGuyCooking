@@ -3,6 +3,7 @@
 *Au-Gratin style potatos with carrots and parsnips.*
 
 ### Ingredients
+
 1. Nonstick cooking spray, for the baking dish
 2. 1 1/4 cups heavy whipping cream 
 3. 1 1/4 cups chicken stock 

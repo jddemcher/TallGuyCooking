@@ -3,6 +3,7 @@
 *Halupki are Russian/Ukrainian/Polish origin food that are also referred to as 'stuffed cabbage' or 'pidgeons'. There are many variations of the dish and can be easily modified to your liking.*
 
 ### Ingredients
+
 1. 3 small heads cabbage
 2. 2 lbs ground beef
 3. Salt & Pepper

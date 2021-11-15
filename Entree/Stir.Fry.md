@@ -3,6 +3,7 @@
 *This can be used on any type of stir fry combination. Meat, vegetables, rice, noodles, etc.*
 
 ### Ingredients
+
 1. 1/4 cup soy sauce
 2. 1/4 cup olive oil
 3. 3 tbsp brown sugar

@@ -3,6 +3,7 @@
 *This is a very simple recipe for ham and bean soup, it can be easily modified and adjusted to personal preference or availability of ingredients.*
 
 ### Ingredients
+
 1. Ham shank, Hamhock, or leftover ham bone
 2. Extra ham steak (optional)
 3. 1LB great northern beans

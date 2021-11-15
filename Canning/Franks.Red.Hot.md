@@ -3,6 +3,7 @@
 *This is an attempted copycat recipe of the popular Frank's Red Hot sauce.*
 
 ### Ingredients
+
 1. 18-20 fresh cayenne peppers (stems removed)
 2. 1 1/2 cups white vinegar
 3. 2 large garlic cloves, minced

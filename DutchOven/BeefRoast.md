@@ -3,6 +3,7 @@
 *This can be used on any type of beef roast, chuck roast works best.*
 
 ### Ingredients
+
 1. steak rub seasoning
 2. rosemary
 3. thyme
