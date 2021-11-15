@@ -13,5 +13,5 @@
 
 **Enjoy!!!**
 
-<img src="https://github.com/jddemcher/TallGuyCooking/blob/master/iconfile.png" width="20">
+<img src="https://github.com/jddemcher/TallGuyCooking/blob/master/iconfile.png" width="200">
 
