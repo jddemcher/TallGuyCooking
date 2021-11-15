@@ -12,7 +12,7 @@
 7. carrots, about 1lb
 8. celery, 1 stock
 9. yellow onion (might need 2 depending on size)
-10. white potatoes 3 or 4 depending on size (optional)
+10. white potatoes 2 or 3 depending on size (optional)
 
 ### Cooking Instructions
 
