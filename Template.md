@@ -13,7 +13,6 @@
 
 **Enjoy!!!**
 
-
-![Image of PiNoiseBox](https://github.com/jddemcher/TallGuyCooking/blob/master/images/soundfx-box1.jpg)
+![Image of PiNoiseBox](https://github.com/jddemcher/TallGuyCooking/blob/master/icon.png)
 
 
