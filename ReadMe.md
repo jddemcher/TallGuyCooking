@@ -1,6 +1,6 @@
 # TallGuyCooking
 
-*This repository is dedicated to the recipes we commonly enjoy at home. I have family roots coming from Ukrainian/Poish/PaDutch descent. Many of the recipes are inspired from those types of heritage.*
+*This repository is dedicated to the recipes we commonly enjoy at home. I have family roots coming from Ukrainian/Poish/PaDutch regions. Many of the recipes are inspired from those types of heritage.*
 
 **Hope you enjoy!!!**
 
