@@ -1,6 +1,6 @@
 # Borscht
 
-*My version of Borscht inspired by Ukrainian recipe.*
+*My version of Borscht inspired by Ukrainian recipe. Beef short ribs added as a type of crossover between beef stew/borscht.*
 
 ### Ingredients
 1. 4 beef short ribs
